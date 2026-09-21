@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-21",
+  "campaigns": [
+    {
+      "id": "bank-otp-impersonation",
+      "level": "HIGH",
+      "titleVi": "Giả nhân viên ngân hàng yêu cầu OTP",
+      "titleEn": "Bank staff impersonation requesting OTP",
+      "descriptionVi": "Kẻ gian có thể tự xưng là nhân viên ngân hàng và yêu cầu OTP, mật khẩu hoặc mã PIN. Không cung cấp các thông tin này qua cuộc gọi hoặc tin nhắn.",
+      "descriptionEn": "Scammers may impersonate bank staff and request OTPs, passwords or PINs. Never provide these credentials by phone or message."
+    },
+    {
+      "id": "fake-delivery-payment",
+      "level": "HIGH",
+      "titleVi": "Giả shipper yêu cầu chuyển khoản hoặc mở liên kết",
+      "titleEn": "Fake delivery payment or link",
+      "descriptionVi": "Cảnh giác người tự xưng là nhân viên giao hàng yêu cầu chuyển khoản vào tài khoản lạ hoặc mở liên kết để nhận hàng, hoàn tiền.",
+      "descriptionEn": "Be cautious when someone claiming to be a delivery worker requests payment to an unfamiliar account or asks you to open a link."
+    },
+    {
+      "id": "authority-impersonation",
+      "level": "HIGH",
+      "titleVi": "Mạo danh cơ quan yêu cầu nộp tiền",
+      "titleEn": "Public authority impersonation",
+      "descriptionVi": "Cảnh giác cuộc gọi tự xưng là cơ quan nhà nước, công an hoặc tòa án yêu cầu chuyển tiền, cung cấp OTP hoặc cài ứng dụng lạ.",
+      "descriptionEn": "Be cautious of callers claiming to represent public authorities who demand money, OTPs or installation of unfamiliar apps."
+    },
+    {
+      "id": "account-refund-link",
+      "level": "MEDIUM",
+      "titleVi": "Giả hoàn tiền hoặc khóa tài khoản",
+      "titleEn": "Fake refund or account suspension",
+      "descriptionVi": "Không đăng nhập tài khoản qua liên kết được gửi bất ngờ với lý do hoàn tiền, xác minh hoặc tránh khóa tài khoản.",
+      "descriptionEn": "Do not sign in through unexpected links claiming to offer refunds, verification or protection from account suspension."
+    }
+  ]
+}
