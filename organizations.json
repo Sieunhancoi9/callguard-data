@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-21",
+  "organizations": [
+    {
+      "number": "1900545413",
+      "name": "Vietcombank",
+      "categoryVi": "Ngân hàng",
+      "categoryEn": "Bank",
+      "matchVi": "Hotline công khai",
+      "matchEn": "Published hotline",
+      "source": "Vietcombank"
+    },
+    {
+      "number": "1800588822",
+      "name": "Techcombank",
+      "categoryVi": "Ngân hàng",
+      "categoryEn": "Bank",
+      "matchVi": "Hotline công khai",
+      "matchEn": "Published hotline",
+      "source": "Techcombank"
+    },
+    {
+      "number": "19009247",
+      "name": "BIDV",
+      "categoryVi": "Ngân hàng",
+      "categoryEn": "Bank",
+      "matchVi": "Hotline công khai",
+      "matchEn": "Published hotline",
+      "source": "BIDV"
+    },
+    {
+      "number": "1900545426",
+      "name": "MBBank",
+      "categoryVi": "Ngân hàng",
+      "categoryEn": "Bank",
+      "matchVi": "Hotline công khai",
+      "matchEn": "Published hotline",
+      "source": "MBBank"
+    },
+    {
+      "number": "1900558868",
+      "name": "VietinBank",
+      "categoryVi": "Ngân hàng",
+      "categoryEn": "Bank",
+      "matchVi": "Hotline công khai",
+      "matchEn": "Published hotline",
+      "source": "VietinBank"
+    }
+  ]
+}
